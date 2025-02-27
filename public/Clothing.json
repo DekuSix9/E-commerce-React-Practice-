@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "product_photo": "https://img.drz.lazcdn.com/static/bd/p/1bd36e01b42d2a3c2559b11b2c6cc4b0.jpg_720x720q80.jpg",
+      "model_name": "Men's Cotton T-Shirt",
+      "price_bdt": 1200,
+      "add_to_cart_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUO7WZsrUlz6XT-6-e07YnghUoF6r-9w_0tQ&s"
+    },
+    {
+      "id": 2,
+      "product_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsTSAWFkfMiLzr14GdhxUKyivYQ1IM5IbXEQ&s",
+      "model_name": "Slim Fit Denim Jeans",
+      "price_bdt": 2500,
+      "add_to_cart_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUO7WZsrUlz6XT-6-e07YnghUoF6r-9w_0tQ&s"
+    },
+    {
+      "id": 3,
+      "product_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu8oJd0wJdn-8QKt8p-O2inpL5ls-pTlKxVA&s",
+      "model_name": "Casual Hoodie",
+      "price_bdt": 2800,
+      "add_to_cart_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUO7WZsrUlz6XT-6-e07YnghUoF6r-9w_0tQ&s"
+    },
+    {
+      "id": 4,
+      "product_photo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/097b57fe-8126-4f63-aa20-d9756e569ea0._SL480_.jpg",
+      "model_name": "Winter Leather Jacket",
+      "price_bdt": 7500,
+      "add_to_cart_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUO7WZsrUlz6XT-6-e07YnghUoF6r-9w_0tQ&s"
+    },
+    {
+      "id": 5,
+      "product_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjMtVixK21D7GTYGfXHQPQIqWoermkiK9dtg&sg",
+      "model_name": "Formal White Shirt",
+      "price_bdt": 2000,
+      "add_to_cart_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUO7WZsrUlz6XT-6-e07YnghUoF6r-9w_0tQ&s"
+    },
+    {
+      "id": 6,
+      "product_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXUfgWwMgI7UJ8GEhowsOH668Rln2XGqt2tQ&s",
+      "model_name": "Men's Chino Trousers",
+      "price_bdt": 3000,
+      "add_to_cart_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUO7WZsrUlz6XT-6-e07YnghUoF6r-9w_0tQ&s"
+    },
+    {
+      "id": 7,
+      "product_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmlwZkKCdexVNRm-o85YmPdw1SMJsB36-clQ&s",
+      "model_name": "Classic Polo Shirt",
+      "price_bdt": 1800,
+      "add_to_cart_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUO7WZsrUlz6XT-6-e07YnghUoF6r-9w_0tQ&s"
+    },
+    {
+      "id": 8,
+      "product_photo": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e9f8c612-0b6b-4e4e-aaf8-af0d8b88b40c/NIKE+ZOOMX+INVINCIBLE+RUN+FK+3.png",
+      "model_name": "Men's Running Shoes",
+      "price_bdt": 5000,
+      "add_to_cart_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUO7WZsrUlz6XT-6-e07YnghUoF6r-9w_0tQ&s"
+    }
+  ]
+  

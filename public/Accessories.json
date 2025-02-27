@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "product_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVn8gmPSYrsD0ASokW7rAK6jViNqQfe1DIsw&s",
+    "model_name": "Mechanical Keyboard RGB",
+    "price_bdt": 4500,
+    "add_to_cart_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUO7WZsrUlz6XT-6-e07YnghUoF6r-9w_0tQ&s"
+  },
+  {
+    "id": 2,
+    "product_photo": "https://static.wixstatic.com/media/2ea113_82d57d9d4d5643ed901be1c7133c5332~mv2.jpg/v1/fill/w_980,h_735,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2ea113_82d57d9d4d5643ed901be1c7133c5332~mv2.jpg",
+    "model_name": "Gaming Mouse Pad XL",
+    "price_bdt": 1200,
+    "add_to_cart_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUO7WZsrUlz6XT-6-e07YnghUoF6r-9w_0tQ&s"
+  },
+  {
+    "id": 3,
+    "product_photo": "https://www.gadstyle.com/wp-content/uploads/2021/12/sandisk-ultra-dual-drive-usb-3-0-flash-drive-micro-usb-128-gb-3-600x600.jpg",
+    "model_name": "SanDisk 128GB USB 3.0",
+    "price_bdt": 2200,
+    "add_to_cart_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUO7WZsrUlz6XT-6-e07YnghUoF6r-9w_0tQ&s"
+  },
+  {
+    "id": 4,
+    "product_photo": "https://vibegaming.com.bd/wp-content/uploads/2022/01/0184232_xiaomi-mi-20000mah-power-bank-v3-usb-c-with-qc-3-18w-white.jpeg",
+    "model_name": "Xiaomi 20000mAh Power Bank",
+    "price_bdt": 3800,
+    "add_to_cart_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUO7WZsrUlz6XT-6-e07YnghUoF6r-9w_0tQ&s"
+  },
+  {
+    "id": 5,
+    "product_photo": "https://www.gadstyle.com/wp-content/uploads/2022/09/anker-30w-usb-c-gan-charger-nano-3-511anker-30w-usb-c-gan-charger-nano-3-511-2.webp",
+    "model_name": "Anker 30W Fast Charger",
+    "price_bdt": 2500,
+    "add_to_cart_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUO7WZsrUlz6XT-6-e07YnghUoF6r-9w_0tQ&s"
+  },
+  {
+    "id": 6,
+    "product_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMFHRFwxPy7lL8BXQTuviQ3eMhxJSo0pu1EQ&s",
+    "model_name": "Aluminum Laptop Stand",
+    "price_bdt": 3200,
+    "add_to_cart_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUO7WZsrUlz6XT-6-e07YnghUoF6r-9w_0tQ&s"
+  },
+  {
+    "id": 7,
+    "product_photo": "https://www.ryans.com/storage/products/main/sandisk-128gb-ultra-shift-usb-30-black-pen-drive-31653369407.webp",
+    "model_name": "Logitech C920 HD Webcam",
+    "price_bdt": 8500,
+    "add_to_cart_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUO7WZsrUlz6XT-6-e07YnghUoF6r-9w_0tQ&s"
+  },
+  {
+    "id": 8,
+    "product_photo": "https://www.gadstyle.com/wp-content/uploads/2024/09/ugreen-qpai-pro-7-in-1-usb-c-hub-4k60hz-hdmi-pd100w-port-45155-1.webp",
+    "model_name": "UGREEN USB-C Hub 7-in-1",
+    "price_bdt": 4200,
+    "add_to_cart_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUO7WZsrUlz6XT-6-e07YnghUoF6r-9w_0tQ&s"
+  }
+]

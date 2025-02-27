@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "product_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQwEFQ0qtIngqUvzdx2DpkIntPuT4TtjnkBA&s",
+      "model_name": "Dell Inspiron 15",
+      "price_bdt": 75000,
+      "add_to_cart_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUO7WZsrUlz6XT-6-e07YnghUoF6r-9w_0tQ&s"
+    },
+    {
+      "id": 2,
+      "product_photo": "https://adminapi.applegadgetsbd.com/storage/media/large/Galaxy-S23-Lavender-4600.jpg",
+      "model_name": "Samsung Galaxy S23",
+      "price_bdt": 115000,
+      "add_to_cart_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUO7WZsrUlz6XT-6-e07YnghUoF6r-9w_0tQ&s"
+    },
+    {
+      "id": 3,
+      "product_photo": "https://www.sony-asia.com/image/406fdd3cc9e49e28002ad8baef9185c8?fmt=pjpeg&wid=1014&hei=396&bgcolor=F1F5F9&bgc=F1F5F9",
+      "model_name": "Sony WH-1000XM4",
+      "price_bdt": 32000,
+      "add_to_cart_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUO7WZsrUlz6XT-6-e07YnghUoF6r-9w_0tQ&s"
+    },
+    {
+      "id": 4,
+      "product_photo": "https://www.lg.com/bd/images/tvs/md07542187/gallery/medium02.jpg",
+      "model_name": "LG 55-inch OLED TV",
+      "price_bdt": 195000,
+      "add_to_cart_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUO7WZsrUlz6XT-6-e07YnghUoF6r-9w_0tQ&s"
+    },
+    {
+      "id": 5,
+      "product_photo": "https://static-01.daraz.com.bd/p/dc9fbf45d5948ba4f975479d297aa2d6.jpg",
+      "model_name": "Apple Watch Series 9",
+      "price_bdt": 55000,
+      "add_to_cart_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUO7WZsrUlz6XT-6-e07YnghUoF6r-9w_0tQ&s"
+    },
+    {
+      "id": 6,
+      "product_photo": "https://vibegaming.com.bd/wp-content/uploads/2022/06/Apple-iPad-Pro-12.9-Inch-Wi-Fi-128GB-MY2H2-Space-Grey.jpg",
+      "model_name": "iPad Pro 12.9",
+      "price_bdt": 125000,
+      "add_to_cart_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUO7WZsrUlz6XT-6-e07YnghUoF6r-9w_0tQ&s"
+    },
+    {
+      "id": 7,
+      "product_photo": "https://assets.gadgetandgear.com/upload/product/20210812_1628755635_100481.png",
+      "model_name": "JBL Charge 5",
+      "price_bdt": 18000,
+      "add_to_cart_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUO7WZsrUlz6XT-6-e07YnghUoF6r-9w_0tQ&s"
+    },
+    {
+      "id": 8,
+      "product_photo": "https://www.ryans.com/storage/products/main/canon-eos-r7-mirrorless-camera-body-with-11674035647.webp",
+      "model_name": "Canon EOS R7",
+      "price_bdt": 175000,
+      "add_to_cart_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUO7WZsrUlz6XT-6-e07YnghUoF6r-9w_0tQ&s"
+    }
+  ]
+  
