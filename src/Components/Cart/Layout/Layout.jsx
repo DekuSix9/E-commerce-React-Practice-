@@ -3,16 +3,14 @@ import Header from "../../Header/Header";
 
 
 const Layout = () => {
-    return (
-        <div>
-            
-            <Header></Header>
-            <div className="mt-24"> 
+  return (
+    <div>
+      <Header />
+      <div className="pt-16"> {/* Padding to prevent overlap with fixed navbar */}
         <Outlet />
       </div>
-           
-        </div>
-    );
+    </div>
+  );
 };
 
 export default Layout;
